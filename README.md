@@ -49,10 +49,10 @@ Obstacle-Assault/
 │   └── Project C++ Source Files
 │
 ├── Visuals/
-│   ├── Gameplay1.png
-│   ├── Gameplay2.png
-│   ├── Gameplay3.png
-│   └── Gameplay4.png
+    ├── Gameplay1.png
+    ├── Gameplay2.png
+    ├── Gameplay3.png
+    └── Gameplay4.png
     └── Gameplay5.png
 ```
 
