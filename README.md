@@ -48,7 +48,7 @@ Obstacle-Assault/
 ├── Source/
 │   └── Project C++ Source Files
 │
-├── Screenshots/
+├── Visuals/
 │   ├── Gameplay1.png
 │   ├── Gameplay2.png
 │   ├── Gameplay3.png
