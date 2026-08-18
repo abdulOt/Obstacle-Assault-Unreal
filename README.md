@@ -40,24 +40,6 @@ https://www.youtube.com/watch?v=jb6Ct2yxZa0
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Obstacle-Assault/
-│
-├── Source/
-│   └── Project C++ Source Files
-│
-├── Visuals/
-    ├── Gameplay1.png
-    ├── Gameplay2.png
-    ├── Gameplay3.png
-    └── Gameplay4.png
-    └── Gameplay5.png
-```
-
----
-
 ## 📚 What I Learned
 
 During this project I gained practical experience with:
@@ -75,19 +57,6 @@ During this project I gained practical experience with:
 
 ---
 
-## 🚀 Future Improvements
-
-* Save system
-* Collectibles
-* UI and HUD
-* Audio effects
-* Checkpoint system
-* Enemy AI
-* Multiple levels
-* Polish and visual improvements
-
----
-
 ## 📥 Running the Project
 
 This repository contains only the C++ source code for portfolio purposes.
@@ -96,20 +65,6 @@ To build the complete project, place the `Source` folder inside the original Unr
 
 ---
 
-## 👨‍💻 Author
-
-Abdul Hanan
-
-Software Engineer | Android Developer | Game Developer
-
-GitHub: https://github.com/abdulOt?tab=repositories
-
 LinkedIn: https://www.linkedin.com/in/abdul-hanan-770875246/
 
 Portfolio: https://portfolio-35d8e.web.app/
-
----
-
-## ⭐ If you like this project
-
-If you found this project interesting, consider giving the repository a ⭐.
